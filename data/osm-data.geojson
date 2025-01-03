@@ -11,9 +11,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8273582",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8273582",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "50"
       }
@@ -28,9 +28,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "26018296",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "26018296",
         "fire_hydrant:type": "underground"
       }
     },
@@ -44,9 +44,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "25936673",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "25936673",
         "fire_hydrant:type": "underground",
         "start_date": "2017"
       }
@@ -61,9 +61,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "10640550",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "10640550",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -78,9 +78,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9228077",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9228077",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "125"
       }
@@ -95,9 +95,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9216127",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9216127",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "125"
       }
@@ -112,9 +112,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9215892",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9215892",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -128,9 +128,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9227812",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9227812",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -144,9 +144,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9216195",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9216195",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -160,9 +160,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9217030",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9217030",
         "fire_hydrant:type": "underground"
       }
     },
@@ -176,9 +176,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9217736",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9217736",
         "fire_hydrant:type": "underground"
       }
     },
@@ -192,9 +192,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9228332",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9228332",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -208,9 +208,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9218758",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9218758",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -224,9 +224,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27394330",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27394330",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -241,9 +241,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9218474",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9218474",
         "fire_hydrant:type": "underground"
       }
     },
@@ -257,9 +257,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9216405",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9216405",
         "fire_hydrant:type": "underground"
       }
     },
@@ -273,9 +273,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8529768",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8529768",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80",
         "start_date": "2003"
@@ -291,9 +291,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9300664",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9300664",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -307,9 +307,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9300372",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9300372",
         "fire_hydrant:type": "underground"
       }
     },
@@ -323,9 +323,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9647421",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9647421",
         "fire_hydrant:type": "underground"
       }
     },
@@ -339,9 +339,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9229671",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9229671",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -355,9 +355,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9229132",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9229132",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -371,9 +371,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9229763",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9229763",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -387,9 +387,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9230197",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9230197",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "125"
       }
@@ -404,9 +404,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9229158",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9229158",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "125"
       }
@@ -421,9 +421,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9291222",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9291222",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2002"
@@ -439,9 +439,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9228536",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9228536",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -455,9 +455,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9291418",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9291418",
         "fire_hydrant:type": "underground",
         "start_date": "2002"
       }
@@ -472,9 +472,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9291841",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9291841",
         "fire_hydrant:type": "pillar",
         "start_date": "2002"
       }
@@ -489,9 +489,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27394281",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27394281",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -506,9 +506,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "7545529",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "7545529",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2002"
@@ -524,9 +524,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9297342",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9297342",
         "fire_hydrant:type": "pillar",
         "start_date": "2002"
       }
@@ -541,9 +541,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "7545434",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "7545434",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2002"
@@ -559,9 +559,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "7544667",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "7544667",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2002"
@@ -577,9 +577,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9297702",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9297702",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -594,9 +594,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8273189",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8273189",
         "fire_hydrant:type": "underground"
       }
     },
@@ -610,9 +610,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8506152",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8506152",
         "fire_hydrant:type": "underground"
       }
     },
@@ -626,9 +626,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8273083",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8273083",
         "fire_hydrant:type": "underground"
       }
     },
@@ -642,9 +642,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8274205",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8274205",
         "fire_hydrant:type": "underground"
       }
     },
@@ -658,9 +658,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8273316",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8273316",
         "fire_hydrant:type": "underground"
       }
     },
@@ -674,9 +674,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8273873",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8273873",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -691,9 +691,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8273919",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8273919",
         "fire_hydrant:type": "underground"
       }
     },
@@ -707,9 +707,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8511343",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8511343",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -724,9 +724,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8506228",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8506228",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -741,9 +741,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8512271",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8512271",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -758,9 +758,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8512380",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8512380",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -775,9 +775,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8512813",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8512813",
         "fire_hydrant:type": "underground"
       }
     },
@@ -791,9 +791,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8513311",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8513311",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -807,9 +807,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8513037",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8513037",
         "fire_hydrant:type": "underground"
       }
     },
@@ -823,9 +823,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8513140",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8513140",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -840,9 +840,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8513171",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8513171",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -857,9 +857,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8227425",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8227425",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -874,9 +874,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8169402",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8169402",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -891,9 +891,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9386802",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9386802",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -908,9 +908,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "21194813",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "21194813",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -925,9 +925,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "25096601",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "25096601",
         "fire_hydrant:type": "underground",
         "start_date": "2015"
       }
@@ -942,9 +942,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "25097680",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "25097680",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2015"
@@ -960,9 +960,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8201204",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8201204",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -977,9 +977,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27503935",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27503935",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2015"
@@ -995,9 +995,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27376105",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27376105",
         "fire_hydrant:type": "pillar",
         "fire_hydrant:diameter": "100",
         "start_date": "2020"
@@ -1013,9 +1013,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27376113",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27376113",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2020"
@@ -1031,9 +1031,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "25096682",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "25096682",
         "fire_hydrant:type": "underground",
         "start_date": "2015"
       }
@@ -1048,9 +1048,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8201291",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8201291",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1065,9 +1065,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8201235",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8201235",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1082,9 +1082,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8207934",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8207934",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1099,9 +1099,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8201268",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8201268",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1116,9 +1116,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8229345",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8229345",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1133,9 +1133,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8228077",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8228077",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1150,9 +1150,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8209311",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8209311",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1167,9 +1167,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8170913",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8170913",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1184,9 +1184,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8170549",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8170549",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1201,9 +1201,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8170443",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8170443",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1218,9 +1218,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8207181",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8207181",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1235,9 +1235,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8199717",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8199717",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1252,9 +1252,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8199257",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8199257",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1269,9 +1269,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8171356",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8171356",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1286,9 +1286,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8199045",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8199045",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1303,9 +1303,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8228497",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8228497",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1320,9 +1320,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8228938",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8228938",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "65"
       }
@@ -1337,9 +1337,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "24640426",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "24640426",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1354,9 +1354,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27898635",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27898635",
         "fire_hydrant:type": "underground",
         "start_date": "2022"
       }
@@ -1371,9 +1371,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27898816",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27898816",
         "fire_hydrant:type": "underground",
         "start_date": "2022"
       }
@@ -1388,9 +1388,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8496978",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8496978",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -1405,9 +1405,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8496584",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8496584",
         "fire_hydrant:type": "underground"
       }
     },
@@ -1421,9 +1421,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8496649",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8496649",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -1438,9 +1438,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8497507",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8497507",
         "fire_hydrant:type": "underground"
       }
     },
@@ -1454,9 +1454,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8499797",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8499797",
         "fire_hydrant:type": "underground"
       }
     },
@@ -1470,9 +1470,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8278526",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8278526",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1487,9 +1487,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8281721",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8281721",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -1504,9 +1504,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8502459",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8502459",
         "fire_hydrant:type": "underground"
       }
     },
@@ -1520,9 +1520,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8280148",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8280148",
         "fire_hydrant:type": "underground"
       }
     },
@@ -1536,9 +1536,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8502897",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8502897",
         "fire_hydrant:type": "underground"
       }
     },
@@ -1552,9 +1552,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8499987",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8499987",
         "fire_hydrant:type": "underground"
       }
     },
@@ -1568,9 +1568,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "23328167",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "23328167",
         "fire_hydrant:type": "underground",
         "start_date": "2011"
       }
@@ -1585,9 +1585,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8505651",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8505651",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -1602,9 +1602,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8278137",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8278137",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1619,9 +1619,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "25557445",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "25557445",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2017"
@@ -1637,9 +1637,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8230636",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8230636",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1654,9 +1654,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "25557467",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "25557467",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2017"
@@ -1672,9 +1672,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "25557429",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "25557429",
         "fire_hydrant:type": "underground",
         "start_date": "2017"
       }
@@ -1689,9 +1689,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8513391",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8513391",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -1705,9 +1705,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "25557483",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "25557483",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2017"
@@ -1723,9 +1723,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "25557475",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "25557475",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2017"
@@ -1741,9 +1741,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "25557491",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "25557491",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2017"
@@ -1759,9 +1759,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8231082",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8231082",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1776,9 +1776,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8220388",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8220388",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1793,9 +1793,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "26036525",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "26036525",
         "fire_hydrant:type": "underground",
         "start_date": "2017"
       }
@@ -1810,9 +1810,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "24640767",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "24640767",
         "fire_hydrant:type": "underground"
       }
     },
@@ -1826,9 +1826,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8222182",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8222182",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1843,9 +1843,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "26036735",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "26036735",
         "fire_hydrant:type": "underground",
         "start_date": "2017"
       }
@@ -1860,9 +1860,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27477107",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27477107",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2020"
@@ -1878,9 +1878,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27600060",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27600060",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2021"
@@ -1896,9 +1896,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8278864",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8278864",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1913,9 +1913,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8279655",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8279655",
         "fire_hydrant:type": "underground"
       }
     },
@@ -1929,9 +1929,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8219594",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8219594",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -1945,9 +1945,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8219174",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8219174",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1962,9 +1962,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8230540",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8230540",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1979,9 +1979,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8230398",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8230398",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -1996,9 +1996,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8703800",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8703800",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2013,9 +2013,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8703874",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8703874",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2030,9 +2030,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "25516785",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "25516785",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2047,9 +2047,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8230238",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8230238",
         "fire_hydrant:type": "underground"
       }
     },
@@ -2063,9 +2063,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8503345",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8503345",
         "fire_hydrant:type": "underground"
       }
     },
@@ -2079,9 +2079,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8503785",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8503785",
         "fire_hydrant:type": "underground"
       }
     },
@@ -2095,9 +2095,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8504432",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8504432",
         "fire_hydrant:type": "underground"
       }
     },
@@ -2111,9 +2111,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "6956708",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "6956708",
         "fire_hydrant:type": "underground",
         "start_date": "2003"
       }
@@ -2128,9 +2128,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "7660935",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "7660935",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2145,9 +2145,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "6956775",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "6956775",
         "fire_hydrant:type": "underground",
         "start_date": "2003"
       }
@@ -2162,9 +2162,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8504694",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8504694",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -2179,9 +2179,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8513807",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8513807",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -2196,9 +2196,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "23551996",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "23551996",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -2213,9 +2213,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8513684",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8513684",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -2230,9 +2230,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9288626",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9288626",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2247,9 +2247,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8769014",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8769014",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2264,9 +2264,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8768995",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8768995",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2281,9 +2281,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8768950",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8768950",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -2297,9 +2297,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8769031",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8769031",
         "fire_hydrant:type": "underground"
       }
     },
@@ -2313,9 +2313,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9203291",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9203291",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -2329,9 +2329,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8769041",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8769041",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2346,9 +2346,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8769024",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8769024",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -2362,9 +2362,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8769036",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8769036",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2379,9 +2379,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "23055895",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "23055895",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2011"
@@ -2397,9 +2397,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9331402",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9331402",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2414,9 +2414,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9660198",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9660198",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -2431,9 +2431,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9231422",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9231422",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2448,9 +2448,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9230881",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9230881",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -2464,9 +2464,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9230341",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9230341",
         "fire_hydrant:type": "underground"
       }
     },
@@ -2480,9 +2480,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8229788",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8229788",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2497,9 +2497,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "18454973",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "18454973",
         "fire_hydrant:type": "pillar",
         "fire_hydrant:diameter": "80",
         "start_date": "2003"
@@ -2515,9 +2515,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "18454840",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "18454840",
         "fire_hydrant:type": "underground",
         "start_date": "2003"
       }
@@ -2532,9 +2532,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8707413",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8707413",
         "fire_hydrant:type": "underground",
         "start_date": "2004"
       }
@@ -2549,9 +2549,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "18454966",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "18454966",
         "fire_hydrant:type": "pillar",
         "fire_hydrant:diameter": "100",
         "start_date": "2003"
@@ -2567,9 +2567,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "7374226",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "7374226",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150",
         "start_date": "2002"
@@ -2585,9 +2585,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8229801",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8229801",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2602,9 +2602,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8229480",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8229480",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2619,9 +2619,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8209608",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8209608",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -2636,9 +2636,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8227674",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8227674",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2653,9 +2653,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9386919",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9386919",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -2670,9 +2670,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8209601",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8209601",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2687,9 +2687,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9646350",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9646350",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -2704,9 +2704,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8168921",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8168921",
         "fire_hydrant:type": "underground"
       }
     },
@@ -2720,9 +2720,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "7361528",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "7361528",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150",
         "start_date": "2001"
@@ -2738,9 +2738,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "21798557",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "21798557",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150",
         "start_date": "2002"
@@ -2756,9 +2756,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8207710",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8207710",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -2773,9 +2773,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8207702",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8207702",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -2790,9 +2790,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "21191234",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "21191234",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150",
         "start_date": "2002"
@@ -2808,9 +2808,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "21566781",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "21566781",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2009"
@@ -2826,9 +2826,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "22416533",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "22416533",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2010"
@@ -2844,9 +2844,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27004562",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27004562",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2018"
@@ -2862,9 +2862,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "26979417",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "26979417",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2018"
@@ -2880,9 +2880,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "24924029",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "24924029",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2015"
@@ -2898,9 +2898,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "20864715",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "20864715",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80",
         "start_date": "2002"
@@ -2916,9 +2916,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "23346911",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "23346911",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2011"
@@ -2934,9 +2934,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "20969917",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "20969917",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2009"
@@ -2952,9 +2952,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "20969966",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "20969966",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2009"
@@ -2970,9 +2970,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8264594",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8264594",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -2987,9 +2987,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "24924086",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "24924086",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2015"
@@ -3005,9 +3005,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8267553",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8267553",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -3022,9 +3022,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8483644",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8483644",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3039,9 +3039,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8494489",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8494489",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -3056,9 +3056,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8283641",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8283641",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3073,9 +3073,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9935578",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9935578",
         "fire_hydrant:type": "underground"
       }
     },
@@ -3089,9 +3089,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8268696",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8268696",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -3106,9 +3106,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8281823",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8281823",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3123,9 +3123,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8263387",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8263387",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3140,9 +3140,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "24924151",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "24924151",
         "fire_hydrant:type": "underground",
         "start_date": "2015"
       }
@@ -3157,9 +3157,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8281774",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8281774",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3174,9 +3174,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8281801",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8281801",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -3191,9 +3191,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "23840938",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "23840938",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2012"
@@ -3209,9 +3209,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8283063",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8283063",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3226,9 +3226,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8277647",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8277647",
         "fire_hydrant:type": "underground"
       }
     },
@@ -3242,9 +3242,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8168195",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8168195",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -3259,9 +3259,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "19213600",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "19213600",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2007"
@@ -3277,9 +3277,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8169288",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8169288",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -3294,9 +3294,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8281745",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8281745",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3311,9 +3311,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "23055669",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "23055669",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3328,9 +3328,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8771960",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8771960",
         "fire_hydrant:type": "underground"
       }
     },
@@ -3344,9 +3344,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8770782",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8770782",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -3360,9 +3360,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8770422",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8770422",
         "fire_hydrant:type": "pillar",
         "fire_hydrant:diameter": "80"
       }
@@ -3377,9 +3377,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8772215",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8772215",
         "fire_hydrant:type": "underground"
       }
     },
@@ -3393,9 +3393,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8771972",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8771972",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3410,9 +3410,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8769701",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8769701",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3427,9 +3427,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8772237",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8772237",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "125"
       }
@@ -3444,9 +3444,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8517184",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8517184",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3461,9 +3461,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "26065076",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "26065076",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2017"
@@ -3479,9 +3479,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8518009",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8518009",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3496,9 +3496,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8531361",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8531361",
         "fire_hydrant:type": "pillar",
         "fire_hydrant:diameter": "80"
       }
@@ -3513,9 +3513,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8532560",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8532560",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3530,9 +3530,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27211243",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27211243",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2019"
@@ -3548,9 +3548,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8534840",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8534840",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -3565,9 +3565,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27640983",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27640983",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2021"
@@ -3583,9 +3583,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8532849",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8532849",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3600,9 +3600,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8533169",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8533169",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3617,9 +3617,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9935508",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9935508",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "125"
       }
@@ -3634,9 +3634,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8536408",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8536408",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3651,9 +3651,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8537164",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8537164",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3668,9 +3668,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8537350",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8537350",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3685,9 +3685,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8537171",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8537171",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3702,9 +3702,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8538822",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8538822",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -3718,9 +3718,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "28542262",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "28542262",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2023"
@@ -3736,9 +3736,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8563606",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8563606",
         "fire_hydrant:type": "underground"
       }
     },
@@ -3752,9 +3752,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9202271",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9202271",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -3768,9 +3768,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9202334",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9202334",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -3784,9 +3784,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9202423",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9202423",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -3800,9 +3800,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "23823777",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "23823777",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150",
         "start_date": "2012"
@@ -3818,9 +3818,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8772438",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8772438",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "125"
       }
@@ -3835,9 +3835,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9297726",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9297726",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -3852,9 +3852,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "22416519",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "22416519",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -3869,9 +3869,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9288767",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9288767",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -3885,9 +3885,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9202059",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9202059",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -3901,9 +3901,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9202114",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9202114",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -3917,9 +3917,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "27891251",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "27891251",
         "fire_hydrant:type": "pillar",
         "fire_hydrant:diameter": "90",
         "start_date": "2023"
@@ -3935,9 +3935,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "26979315",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "26979315",
         "fire_hydrant:type": "underground",
         "start_date": "2018"
       }
@@ -3952,9 +3952,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8483722",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8483722",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -3969,9 +3969,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8483714",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8483714",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -3986,9 +3986,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8483702",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8483702",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4003,9 +4003,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8269487",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8269487",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -4020,9 +4020,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8262696",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8262696",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -4037,9 +4037,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8268907",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8268907",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -4054,9 +4054,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8281852",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8281852",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4071,9 +4071,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8262877",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8262877",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4088,9 +4088,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8263401",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8263401",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4105,9 +4105,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8270129",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8270129",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4122,9 +4122,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8516293",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8516293",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "200"
       }
@@ -4139,9 +4139,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "10712240",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "10712240",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -4156,9 +4156,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9299628",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9299628",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4172,9 +4172,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9206169",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9206169",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4189,9 +4189,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9289177",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9289177",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4205,9 +4205,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9289247",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9289247",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4222,9 +4222,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9203693",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9203693",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "125"
       }
@@ -4239,9 +4239,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9290696",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9290696",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4255,9 +4255,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9288121",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9288121",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4271,9 +4271,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9288130",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9288130",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4287,9 +4287,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9231562",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9231562",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4304,9 +4304,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9205853",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9205853",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4320,9 +4320,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9205694",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9205694",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4336,9 +4336,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9290017",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9290017",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4352,9 +4352,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9289710",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9289710",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4368,9 +4368,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9289739",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9289739",
         "fire_hydrant:type": "pillar",
         "fire_hydrant:diameter": "100"
       }
@@ -4385,9 +4385,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9289561",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9289561",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4401,9 +4401,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9205103",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9205103",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4418,9 +4418,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9289457",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9289457",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4434,9 +4434,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9289369",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9289369",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4450,9 +4450,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8276787",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8276787",
         "fire_hydrant:type": "underground"
       }
     },
@@ -4466,9 +4466,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8276740",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8276740",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "200"
       }
@@ -4483,9 +4483,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8274486",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8274486",
         "fire_hydrant:type": "underground"
       }
     },
@@ -4499,9 +4499,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8277121",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8277121",
         "fire_hydrant:type": "underground"
       }
     },
@@ -4515,9 +4515,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "23779282",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "23779282",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "200",
         "start_date": "1999"
@@ -4533,9 +4533,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8275245",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8275245",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4550,9 +4550,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8275452",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8275452",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4567,9 +4567,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "21028742",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "21028742",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "200",
         "start_date": "2008"
@@ -4585,9 +4585,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "21031148",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "21031148",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2008"
@@ -4603,9 +4603,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "21191867",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "21191867",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100",
         "start_date": "2008"
@@ -4621,9 +4621,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9299787",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9299787",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -4638,9 +4638,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9299464",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9299464",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -4655,9 +4655,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8279160",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8279160",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4672,9 +4672,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9658812",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9658812",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -4689,9 +4689,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8279281",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8279281",
         "fire_hydrant:type": "underground"
       }
     },
@@ -4705,9 +4705,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8769117",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8769117",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "125"
       }
@@ -4722,9 +4722,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8768639",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8768639",
         "fire_hydrant:type": "pillar",
         "fire_hydrant:diameter": "80"
       }
@@ -4739,9 +4739,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8770260",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8770260",
         "fire_hydrant:type": "pillar",
         "fire_hydrant:diameter": "80"
       }
@@ -4756,9 +4756,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8769281",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8769281",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "125"
       }
@@ -4773,9 +4773,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8550957",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8550957",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4789,9 +4789,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8553592",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8553592",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -4806,9 +4806,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8549663",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8549663",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4822,9 +4822,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8551764",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8551764",
         "fire_hydrant:type": "underground"
       }
     },
@@ -4838,9 +4838,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8551934",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8551934",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4855,9 +4855,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8549685",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8549685",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -4872,9 +4872,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8531954",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8531954",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4889,9 +4889,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8539860",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8539860",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4905,9 +4905,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8540106",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8540106",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4921,9 +4921,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8540084",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8540084",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4937,9 +4937,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8552874",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8552874",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4954,9 +4954,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8539222",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8539222",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -4971,9 +4971,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8551929",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8551929",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -4987,9 +4987,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8557832",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8557832",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -5004,9 +5004,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9231950",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9231950",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "80"
       }
@@ -5021,9 +5021,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9231957",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9231957",
         "fire_hydrant:type": "pillar",
         "fire_hydrant:diameter": "80"
       }
@@ -5038,9 +5038,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8554241",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8554241",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -5055,9 +5055,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8553044",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8553044",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -5072,9 +5072,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8555191",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8555191",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -5089,9 +5089,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8555213",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8555213",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -5106,9 +5106,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8556275",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8556275",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -5123,9 +5123,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8556754",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8556754",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "100"
       }
@@ -5140,9 +5140,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "8556268",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "8556268",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "150"
       }
@@ -5157,9 +5157,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "23623427",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "23623427",
         "fire_hydrant:type": "pillar",
         "fire_hydrant:diameter": "125",
         "start_date": "2012"
@@ -5175,9 +5175,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "23623436",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "23623436",
         "fire_hydrant:type": "underground",
         "fire_hydrant:diameter": "125",
         "start_date": "2012"
@@ -5193,9 +5193,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9204120",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9204120",
         "fire_hydrant:type": "pillar"
       }
     },
@@ -5209,9 +5209,9 @@
         ]
       },
       "properties": {
-        "ref:ewk": "9204216",
         "emergency": "fire_hydrant",
         "operator": "EWK Kirchzarten",
+        "ref:ewk": "9204216",
         "fire_hydrant:type": "pillar",
         "fire_hydrant:diameter": "150"
       }

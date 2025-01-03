@@ -132,9 +132,9 @@ const hydrants = features.map((feature) => ({
 const osmHydrants = hydrants.map((hydrant) => ({
   latitude: hydrant.latitude,
   longitude: hydrant.longitude,
-  'ref:ewk': getOsmRef(hydrant),
   emergency: 'fire_hydrant',
   operator: getOsmOperator(hydrant),
+  'ref:ewk': getOsmRef(hydrant),
   'fire_hydrant:type': getOsmHydrantType(hydrant),
   'fire_hydrant:diameter': getOsmDiameter(hydrant),
   start_date: getOsmStartDate(hydrant),
