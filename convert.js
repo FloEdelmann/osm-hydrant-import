@@ -119,6 +119,11 @@ function getOsmRef(hydrant) {
   return hydrant.XTRID;
 }
 
+function getOsmOperator(hydrant) {
+  assert.equal(hydrant.NUMMERIERU, 'EWK Kirchzarten');
+  return hydrant.NUMMERIERU;
+}
+
 const hydrants = features.map((feature) => ({
   ...getCoordinates(feature),
   ...getAttributes(feature),
@@ -129,6 +134,7 @@ const osmHydrants = hydrants.map((hydrant) => ({
   longitude: hydrant.longitude,
   'ref:ewk': getOsmRef(hydrant),
   emergency: 'fire_hydrant',
+  operator: getOsmOperator(hydrant),
   'fire_hydrant:type': getOsmHydrantType(hydrant),
   'fire_hydrant:diameter': getOsmDiameter(hydrant),
   start_date: getOsmStartDate(hydrant),
