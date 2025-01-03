@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/FloEdelmann/osm-hydrant-import/issues"
   },
-  "homepage": "https://github.com/FloEdelmann/osm-hydrant-import#readme"
+  "homepage": "https://github.com/FloEdelmann/osm-hydrant-import#readme",
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
 }
