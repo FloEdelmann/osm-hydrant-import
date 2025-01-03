@@ -1,0 +1,26 @@
+{
+  "name": "osm-hydrant-import",
+  "version": "0.0.1",
+  "description": "Tools for importing fire hydrants into OpenStreetMap",
+  "main": "convert.js",
+  "type": "module",
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FloEdelmann/osm-hydrant-import.git"
+  },
+  "keywords": [
+    "openstreetmap",
+    "osm",
+    "hydrant",
+    "hydrants"
+  ],
+  "author": "Flo Edelmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FloEdelmann/osm-hydrant-import/issues"
+  },
+  "homepage": "https://github.com/FloEdelmann/osm-hydrant-import#readme"
+}
