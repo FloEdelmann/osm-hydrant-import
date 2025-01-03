@@ -24,7 +24,7 @@ function getCoordinates(feature) {
 
   const coordinatesRegexp = /^(\d+\.\d+),(\d+\.\d+)$/;
   assert.match(feature.Point.coordinates, coordinatesRegexp, 'Hydrant point coordinates invalid');
-  const [, latitude, longitude] = coordinatesRegexp.exec(feature.Point.coordinates);
+  const [, longitude, latitude] = coordinatesRegexp.exec(feature.Point.coordinates);
 
   return { latitude, longitude };
 }
