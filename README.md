@@ -2,9 +2,6 @@
 
 Tools for importing the fire hydrants provided by OSM user _KS-Brandschutz_ in [this OSM community forum thread](https://community.openstreetmap.org/t/hydranten-hinzufugen/123792) into OpenStreetMap.
 
-> [!WARNING]  
-> This is a work in progress and not yet ready for use.
-
 ## Usage
 
 Make sure you have a recent version of Node.js installed. Then run the following commands:
@@ -14,4 +11,22 @@ npm install
 npm run convert
 ```
 
-This will read the KML file and generate a CSV file (to make all available features easy to read) and a GeoJSON file that can be imported into OpenStreetMap.
+This will read the KML file and generate several other files:
+
+| File name                      | Open with                       | Description                                                                         |
+| ------------------------------ | ------------------------------- | ----------------------------------------------------------------------------------- |
+| [`hydranten_ewk.kml`]          |                                 | input data                                                                          |
+| [`raw-data.csv`]               | Excel / LibreOffice Calc / etc. | data from the KML file with minimal processing, for manual analysis of the raw data |
+| [`generated-osm-data.geojson`] | [JOSM]                          | processed and cleaned up data, for importing into OpenStreetMap                     |
+| [`generated-osm-data.csv`]     | Excel / LibreOffice Calc / etc. | processed and cleaned up data, for manual analysis of the processed data            |
+
+[`hydranten_ewk.kml`]: data/hydranten_ewk.kml
+[`raw-data.csv`]: data/raw-data.csv
+[`generated-osm-data.geojson`]: data/generated-osm-data.geojson
+[`generated-osm-data.csv`]: data/generated-osm-data.csv
+[JOSM]: https://wiki.openstreetmap.org/wiki/JOSM
+
+## License
+
+Code: MIT License  
+Data: ODbL, according to <https://community.openstreetmap.org/t/hydranten-hinzufugen/123792/13>
