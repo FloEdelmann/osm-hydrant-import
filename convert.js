@@ -109,6 +109,16 @@ function getOsmDiameter(hydrant) {
   return String(roundedTo5Diameters[0]);
 }
 
+function getOsmRef(hydrant) {
+  assert(hydrant.XTRID, 'Hydrant has no XTRID');
+  assert(hydrant.ID, 'Hydrant has no ID');
+  assert(hydrant.LOGISCHE_I, 'Hydrant has no LOGISCHE_I');
+  assert.equal(hydrant.XTRID, hydrant.ID, 'Hydrant has different IDs');
+  assert.equal(`ID-${hydrant.ID}`, hydrant.LOGISCHE_I, 'Hydrant has different IDs');
+
+  return hydrant.XTRID;
+}
+
 const hydrants = features.map((feature) => ({
   ...getCoordinates(feature),
   ...getAttributes(feature),
@@ -117,6 +127,7 @@ const hydrants = features.map((feature) => ({
 const osmHydrants = hydrants.map((hydrant) => ({
   latitude: hydrant.latitude,
   longitude: hydrant.longitude,
+  'ref:ewk': getOsmRef(hydrant),
   emergency: 'fire_hydrant',
   'fire_hydrant:type': getOsmHydrantType(hydrant),
   'fire_hydrant:diameter': getOsmDiameter(hydrant),
