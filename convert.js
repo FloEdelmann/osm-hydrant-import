@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { XMLParser } from 'fast-xml-parser';
+import { createObjectCsvWriter } from 'csv-writer';
 
 const kmlFileName = new URL('./hydranten_ewk.kml', import.meta.url);
 const csvFileName = new URL('./hydranten_ewk.csv', import.meta.url);
@@ -28,15 +29,43 @@ function getCoordinates(feature) {
   return { latitude, longitude };
 }
 
+function getAttributes(feature) {
+  const simpleData = feature.ExtendedData?.SchemaData?.SimpleData;
+  assert(simpleData, 'Hydrant has no attributes');
+
+  for (const { $name: attributeName } of simpleData) {
+    assert(attributeName, 'Hydrant attribute name is undefined');
+    assert(
+      schema.some((simpleField) => simpleField.$name === attributeName),
+      `Hydrant has unknown attribute '${attributeName}'`,
+    );
+  }
+
+  return Object.fromEntries(simpleData.map((attribute) => [attribute.$name, attribute['#text']]));
+}
+
 const hydrants = features.map((feature) => ({
   ...getCoordinates(feature),
-  ...Object.fromEntries(
-    feature.ExtendedData.SchemaData.SimpleData.map((simpleData) => [
-      simpleData.$name,
-      simpleData['#text'],
-    ]),
-  ),
+  ...getAttributes(feature),
 }));
 
 console.log(schema);
 console.log(hydrants);
+
+async function writeCsv() {
+  const csvWriter = createObjectCsvWriter({
+    path: csvFileName.pathname,
+    header: [
+      { id: 'latitude', title: 'latitude' },
+      { id: 'longitude', title: 'longitude' },
+      ...schema.map((field) => ({
+        id: field.$name,
+        title: `${field.$name} (${field.$type})`,
+      })),
+    ],
+  });
+
+  await csvWriter.writeRecords(hydrants);
+}
+
+await writeCsv();
