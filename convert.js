@@ -4,9 +4,9 @@ import { XMLParser } from 'fast-xml-parser';
 import { createObjectCsvWriter } from 'csv-writer';
 import GeoJson from 'geojson';
 
-const kmlFileName = new URL('./hydranten_ewk.kml', import.meta.url);
-const csvFileName = new URL('./hydranten_ewk.csv', import.meta.url);
-const geoJsonFileName = new URL('./hydranten_ewk.geojson', import.meta.url);
+const kmlFileName = new URL('./data/hydranten_ewk.kml', import.meta.url);
+const rawCsvFileName = new URL('./data/raw-data.csv', import.meta.url);
+const osmGeoJsonFileName = new URL('./data/generated-osm-data.geojson', import.meta.url);
 
 const kmlContent = await readFile(kmlFileName, 'utf-8');
 
@@ -124,9 +124,9 @@ const osmHydrants = hydrants.map((hydrant) => ({
 // console.log(schema);
 // console.log(hydrants);
 
-async function writeCsv() {
+async function writeRawCsv() {
   const csvWriter = createObjectCsvWriter({
-    path: csvFileName.pathname,
+    path: rawCsvFileName.pathname,
     header: [
       { id: 'latitude', title: 'latitude' },
       { id: 'longitude', title: 'longitude' },
@@ -138,14 +138,14 @@ async function writeCsv() {
   });
 
   await csvWriter.writeRecords(hydrants);
-  console.log(`${csvFileName.pathname} written.`);
+  console.log(`${rawCsvFileName.pathname} written.`);
 }
 
-async function writeGeoJson() {
+async function writeOsmGeoJson() {
   const geoJsonContent = GeoJson.parse(osmHydrants, { Point: ['latitude', 'longitude'] });
-  await writeFile(geoJsonFileName, JSON.stringify(geoJsonContent, undefined, 2), 'utf-8');
-  console.log(`${geoJsonFileName.pathname} written.`);
+  await writeFile(osmGeoJsonFileName, JSON.stringify(geoJsonContent, undefined, 2), 'utf-8');
+  console.log(`${osmGeoJsonFileName.pathname} written.`);
 }
 
-await writeCsv();
-await writeGeoJson();
+await writeRawCsv();
+await writeOsmGeoJson();
