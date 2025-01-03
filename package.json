@@ -24,10 +24,12 @@
   },
   "homepage": "https://github.com/FloEdelmann/osm-hydrant-import#readme",
   "devDependencies": {
+    "@types/geojson": "^7946.0.15",
     "prettier": "^3.4.2"
   },
   "dependencies": {
     "csv-writer": "^1.6.0",
-    "fast-xml-parser": "^4.5.1"
+    "fast-xml-parser": "^4.5.1",
+    "geojson": "^0.5.0"
   }
 }
