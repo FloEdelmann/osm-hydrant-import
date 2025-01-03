@@ -13,17 +13,17 @@ npm run convert
 
 This will read the KML file and generate several other files:
 
-| File name                      | Open with                       | Description                                                                         |
-| ------------------------------ | ------------------------------- | ----------------------------------------------------------------------------------- |
-| [`hydranten_ewk.kml`]          |                                 | input data                                                                          |
-| [`raw-data.csv`]               | Excel / LibreOffice Calc / etc. | data from the KML file with minimal processing, for manual analysis of the raw data |
-| [`generated-osm-data.geojson`] | [JOSM]                          | processed and cleaned up data, for importing into OpenStreetMap                     |
-| [`generated-osm-data.csv`]     | Excel / LibreOffice Calc / etc. | processed and cleaned up data, for manual analysis of the processed data            |
+| File name             | Open with                       | Description                                                                         |
+| --------------------- | ------------------------------- | ----------------------------------------------------------------------------------- |
+| [`hydranten_ewk.kml`] |                                 | input data                                                                          |
+| [`raw-data.csv`]      | Excel / LibreOffice Calc / etc. | data from the KML file with minimal processing, for manual analysis of the raw data |
+| [`osm-data.geojson`]  | [JOSM]                          | processed and cleaned up data, for importing into OpenStreetMap                     |
+| [`osm-data.csv`]      | Excel / LibreOffice Calc / etc. | processed and cleaned up data, for manual analysis of the processed data            |
 
 [`hydranten_ewk.kml`]: data/hydranten_ewk.kml
 [`raw-data.csv`]: data/raw-data.csv
-[`generated-osm-data.geojson`]: data/generated-osm-data.geojson
-[`generated-osm-data.csv`]: data/generated-osm-data.csv
+[`osm-data.geojson`]: data/osm-data.geojson
+[`osm-data.csv`]: data/osm-data.csv
 [JOSM]: https://wiki.openstreetmap.org/wiki/JOSM
 
 ## License

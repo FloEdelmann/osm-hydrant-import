@@ -6,8 +6,8 @@ import GeoJson from 'geojson';
 
 const kmlFileName = new URL('./data/hydranten_ewk.kml', import.meta.url);
 const rawCsvFileName = new URL('./data/raw-data.csv', import.meta.url);
-const osmCsvFileName = new URL('./data/generated-osm-data.csv', import.meta.url);
-const osmGeoJsonFileName = new URL('./data/generated-osm-data.geojson', import.meta.url);
+const osmCsvFileName = new URL('./data/osm-data.csv', import.meta.url);
+const osmGeoJsonFileName = new URL('./data/osm-data.geojson', import.meta.url);
 
 const kmlContent = await readFile(kmlFileName, 'utf-8');
 
