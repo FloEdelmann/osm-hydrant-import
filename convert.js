@@ -14,6 +14,7 @@ const kmlContent = await readFile(kmlFileName, 'utf-8');
 const xmlParser = new XMLParser({
   ignoreAttributes: false,
   attributeNamePrefix: '$',
+  parseTagValue: false, // don't try to parse numbers/booleans, keep everything as strings
 });
 const document = xmlParser.parse(kmlContent).kml.Document;
 const schema = /** @type {any[]} */ (document.Schema.SimpleField);
